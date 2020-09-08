@@ -15,7 +15,18 @@ offers a numpy-like programming interface based on [Apache MXNet (incubating)](h
 It adopts the easy-to-use Gluon front-end for building deep learning models, and contains utilities 
 that are tailored to NLP practitioners.
 
+Information
+-----------
+**Tutors:** TBA
+**Contact:** TBA
+**Live Q&A:** TBA
+**Video presentations**: TBA
 
 Agenda
 ------
+TBA
+
+
+Hands-on Tutorials
+------------------
 TBA
