@@ -4,7 +4,8 @@
 
 Abstract
 --------
-Text is everywhere. Designing models to process and understand text, or Natural Language Processing (NLP), 
+Text is everywhere. Designing models to process and understand text, or 
+Natural Language Processing (NLP), 
 is a rapidly evolving area in artificial intelligence. Despite advancing at an incredible speed, 
 sit is still not trivial for practitioners to  apply state-of-the-art NLP models like BERT and ALBERT to their own text data. 
 The reason is that the modern NLP techniques involve advancements in many different aspects, ranging from the low-level 
