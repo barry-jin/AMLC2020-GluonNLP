@@ -1,7 +1,6 @@
 # AMLC 2020: Dive into Deep Learning for Natural Language Processing
-====================================================================
 
-<h3>Time: TBA<br/>Location: Virtual Conference</h3>
+<h4>Time: TBA<br/>Location: Virtual Conference</h4>
 
 Abstract
 --------
